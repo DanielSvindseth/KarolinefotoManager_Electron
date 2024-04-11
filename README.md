@@ -1,0 +1,1 @@
+# KarolinefotoManager_Electron
