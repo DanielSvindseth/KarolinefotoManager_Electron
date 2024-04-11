@@ -1,0 +1,22 @@
+{
+  "name": "karolinefoto-manager-electron",
+  "version": "1.0.0",
+  "description": "KarolinefotoManager built in electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Photo"
+  ],
+  "author": "Daniel Svindseth",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "23.1.3"
+  },
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "requirejs": "^2.3.6"
+  }
+}
